@@ -1,0 +1,60 @@
+body {
+  background-color: #78e08f;
+  text-align: center;
+  font-family: Verdana;
+  color: #0a3d62;
+}
+
+#main {
+  border: 1px solid #0c2461;
+  background-color: #82ccdd;
+  color: #1e3799;
+  padding: 5px;
+  width: 50%;
+  box-shadow: 5px 5px #0686c6;
+  margin: auto;
+  width: 50%;
+}
+
+#display {
+  border: 1px solid #0c2461;
+  height: 40px;
+  width: 175px;
+  border-radius: 5px;
+  background-color: #d7f2fe;
+  box-shadow: 1px 1px #0686c6;
+  margin: auto;
+}
+
+button {
+  border: 1px solid #0c2461;
+  border-radius: 5px;
+  background-color: #d7f2fe;
+  width: 40px;
+  height: 40px;
+  margin-top: 1px;
+}
+
+#clear {
+  background-color: #af3b6e;
+  color: white;
+  width: 85px;
+  height: 40px;
+}
+
+#zero {
+  width: 85px;
+}
+
+#equals {
+  width: 85px;
+  background-color: #78e08f;
+}
+
+#signature {
+  font-size: 8px;
+  position: relative;
+  top: 10px;
+  padding: 5px;
+  margin: auto;
+}
